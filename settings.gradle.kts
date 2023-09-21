@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "CalculatorMobile"
 include(":app")
+include(":components")
